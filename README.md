@@ -11,3 +11,5 @@ Ok so POV: you come back to your computer after a break, then you leave hypixel 
 And it just stays there... [menacingly](https://www.youtube.com/watch?v=LPmzRa-sXQs).
 
 Title Fix Mod fixes this.
+
+### [Downloads](https://github.com/DuncanRuns/Title-Fix-Mod/releases)
