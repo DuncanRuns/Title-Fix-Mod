@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "me.duncanruns.titlefix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

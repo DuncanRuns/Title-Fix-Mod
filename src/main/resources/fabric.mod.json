@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "title-fix",
+  "version": "${version}",
+  "name": "Title Fix",
+  "description": "When exiting a world or server, the in game title overlay will be cleared to prevent transfering to the next world.",
+  "authors": [
+    "DuncanRuns"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/title-fix/icon.png",
+  "environment": "client",
+  "mixins": [
+    "title-fix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.4"
+  }
+}
