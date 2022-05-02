@@ -18,6 +18,7 @@ public abstract class MinecraftClientMixin {
 
     @Inject(method = "disconnect(Lnet/minecraft/client/gui/screen/Screen;)V", at = @At("HEAD"))
     private void clearTitleMixin(Screen screen, CallbackInfo info) {
-        inGameHud.setTitles(null, null, 10, 70, 20); // 10, 70, 20 is the default title timings
+        inGameHud.setTitles(null, null, -1, -1, -1);
+        inGameHud.setDefaultTitleFade();
     }
 }
