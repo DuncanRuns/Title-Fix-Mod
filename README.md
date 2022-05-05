@@ -13,3 +13,5 @@ And it just stays there... [menacingly](https://www.youtube.com/watch?v=LPmzRa-s
 Title Fix Mod fixes this.
 
 ### [Downloads](https://github.com/DuncanRuns/Title-Fix-Mod/releases)
+### [modrinth](https://modrinth.com/mod/title-fix-mod)
+### [CurseForge](https://www.curseforge.com/minecraft/mc-mods/title-fix)
